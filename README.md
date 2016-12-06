@@ -56,6 +56,10 @@ These changes attempt to:
 - Monthly personnel rewards for each country changed:
   - Africa now gains 2 
 - Abduction cash reward multiplier increased:
+  - Swarming: 138
+  - Heavy: 120
+  - Moderate:
+  - Light:
   - exact values WIP
 
 ## Combat game
