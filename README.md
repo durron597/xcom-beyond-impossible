@@ -34,6 +34,8 @@ These changes attempt to:
 - Max hours a soldier can be wounded lowered to 900. (BASE_DAYS_INJURED = 900)
 - RAND_DAYS_INJURED changed to 3545. (how days/research alters max injury timeout, d by x / (Days + y) )
 - MSGTs roll small stat bonus every 2 missions instead of 4 now.
+- Initial Cash Amounts changed:
+  - USA, China, UK, Germany, France, Japan, India, Australia, Canada, Egypt, Brazil, Argentina, Mexico, South Africa, and Nigeria from 400 to 450.  
 - Satellite Funding Amounts changed:
   - UK from 110 to 120.
   - India from 100 to 110.
@@ -45,6 +47,16 @@ These changes attempt to:
   - Nigeria from 80 to 120.
 - Country Funding Multiplier increased from .75 to 1 (more total cash for player)
 - Meld from aliens increased from 0.3 to 0.5
+- Continent Bonuses changed:
+  - Power to the People from
+  - WIP
+- Starting Bonuses changed:
+  - Patriae Semper Vigilis from
+  - WIP
+- Monthly personnel rewards for each country changed:
+  - Africa now gains 2 
+- Abduction cash reward multiplier increased:
+  - exact values WIP
 
 ## Combat game
 
