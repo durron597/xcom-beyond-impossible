@@ -1,0 +1,61 @@
+Arvius' version of Long War.
+
+Download the following:
+
+Long War: http://www.nexusmods.com/xcom/mods/88/
+PatcherGUI: http://www.nexusmods.com/xcom/mods/448/
+Enhanced Tactical Info: http://www.nexusmods.com/xcom/mods/554/		(optional)
+Country Panic & Defense Values: http://pastebin.com/QBtsBzy2		(optional)
+Hit Chance: https://www.reddit.com/r/Xcom/comments/3akkhg/lw_mod_configurable_hitcrit_chance_display_for		(optional)
+Customize Unique Soldier Stats: https://www.reddit.com/r/Xcom/comments/3emron/lw_customize_unique_soldier_stats/
+^  https://dl.dropboxusercontent.com/content_link/4BZRhakwbOKa8bn9B5RLPRjXTTuvrQk2heYqWXNgtRfEZ3J2EyAf2CM212B9qDIq/file?dl=1
+VR Mod to auto-promote PFC to Specialists: http://pastebin.com/n80cVHnX	
+Escalation Mod: http://www.nexusmods.com/xcom/mods/603/		(Instructions on how to install below)
+^ 	http://www.nexusmods.com/xcom/download/1000004515	(use this link and the one below if lazy to find which escalation mod to download)
+^	http://www.nexusmods.com/xcom/download/1000005238   (use this link and the one above if lazy to find which escalation mod to download)
+
+INI files to download:	(IMPORTANT AND NEEDED IF YOU WANT HIS CHANGES)
+DefaultGameCore: http://goo.gl/fkt0cc
+DefaultGateData: http://goo.gl/vBpvGZ
+DefaultStrategyAIMod: https://www.dropbox.com/s/p8viqba8tlk89yh/DefaultStrategyAIMod.ini?dl=0
+
+
+
+Installation Instructions:
+1. Install Long War normally.
+
+2. Install Patchergui.
+
+3. Install optional mods if you wish or skip this step.
+
+4. Use PatcherGUI to apply XGStrategy.NewGame.txt and XGUnit.RecordKill.txt patches to Path-To-SteamLibrary\SteamApps\common\XCom-Enemy-Unknown\XEW folder.
+
+5. Copy four *.u files from inside this archive to Path-To-SteamLibrary\SteamApps\common\XCom-Enemy-Unknown\XEW\XComGame\CookedPCConsole folder. Answer "yes" when prompted to replace existing files. **Be sure to use the newer file from http://www.nexusmods.com/xcom/download/1000005238 as it has the newer and updated file.**
+
+6. Copy two *.ini files from inside this archive to Path-To-SteamLibrary\SteamApps\common\XCom-Enemy-Unknown\XEW\XComGame\Config folder.
+
+7. Open Path-To-SteamLibrary\SteamApps\common\XCom-Enemy-Unknown\XEW\XComGame\Config\DefaultEngine.ini file with notepad.
+Search for this line:
++NonNativePackages=XComLZMutator
+Add these two lines right after it:
++NonNativePackages=XComStrategyAIMutator
++NonNativePackages=XComSHIVXP
+
+8. Open Path-To-SteamLibrary\SteamApps\common\XCom-Enemy-Unknown\XEW\XComGame\Config\DefaultMutatorLoader.ini file with notepad.
+Search for:
+arrTacticalMutators="XComLZMutator.XComSpawnAlienMutator"
+Add right after it:
+arrTacticalMutators="XComSHIVXP.XComSHIVXPMutator"
+Search for:
+arrStrategicMutators="XComLZMutator.XComFCMutator"
+Add right after it:
+arrStrategicMutators="XComStrategyAIMutator.XComStrategyAIMutator"
+
+9. Go to Path-To-SteamLibrary\SteamApps\common\XCom-Enemy-Unknown\XEW\XComGame\Config\
+Now download the 3 INI files listed above
+Replace the files.
+Edit whatever else you want.
+
+10. Use Patchergui to apply the VR Mod. Make sure you link the top line to Path-To-SteamLibrary\SteamApps\common\XCom-Enemy-Unknown\XEW\
+On the Mod file line, link it to http://pastebin.com/n80cVHnX which should be downloaded as .txt file.
+Hit Apply. Close out.
