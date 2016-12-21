@@ -1,6 +1,6 @@
 # What is this?
 
-Long War Impossible is too easy. Snipers with a concealment Scout are just too strong, Lasers and pulse and other techs are completely skippable, it's too easy for XCom to get ahead and stay ahead.
+Long War Impossible is too easy. Snipers with a concealment Scout are just too strong, Lasers and pulse and other techs are completely skippable, it's too easy for XCom to get ahead and stay ahead. Escalation Mod is now used to create interesting and difficult plays throughout the game.
 
 These changes attempt to:
 - Add challenge to the later parts of the game
