@@ -18,6 +18,7 @@ INI files to download:	(IMPORTANT AND NEEDED IF YOU WANT HIS CHANGES)
 DefaultGameCore: http://goo.gl/fkt0cc
 DefaultGateData: http://goo.gl/vBpvGZ
 DefaultStrategyAIMod: https://www.dropbox.com/s/p8viqba8tlk89yh/DefaultStrategyAIMod.ini?dl=0
+DefaultRandomSpawns: https://www.dropbox.com/s/27ym8rf07ac8jag/DefaultRandomSpawns.ini?dl=0
 
 
 
@@ -52,7 +53,7 @@ Add right after it:
 arrStrategicMutators="XComStrategyAIMutator.XComStrategyAIMutator"
 
 9. Go to Path-To-SteamLibrary\SteamApps\common\XCom-Enemy-Unknown\XEW\XComGame\Config\
-Now download the 3 INI files listed above
+Now download the 4 INI files listed above
 Replace the files.
 Edit whatever else you want.
 
