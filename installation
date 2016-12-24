@@ -53,7 +53,7 @@ Add right after it:
 arrStrategicMutators="XComStrategyAIMutator.XComStrategyAIMutator"
 
 9. Go to Path-To-SteamLibrary\SteamApps\common\XCom-Enemy-Unknown\XEW\XComGame\Config\
-Now download the 4 INI files listed above
+Now download the 4 INI files listed above. (Section: INI files to download:	(IMPORTANT AND NEEDED IF YOU WANT HIS CHANGES) )
 Replace the files.
 Edit whatever else you want.
 
