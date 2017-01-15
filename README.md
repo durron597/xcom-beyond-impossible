@@ -71,6 +71,12 @@ These changes attempt to:
 - Death Blossom chance modifier increased from 5 to 10.
 - Multiplier for timing of alien upgrades increased from 130 to 135 (faster).
 
+## Escalation
+- Adds custom alien pods to the game and can be determined by mission type and/or months in-game.
+- Entirely possible to see high tier aliens much earlier into the game allowing for different alien pod compositions that increases mission difficulty.
+
 ## What else? (Under construction)
 - Alien stats buffed. More details to be entered.
 - Soldier stats buffed. Perks reworked for certain classes.
+
+
