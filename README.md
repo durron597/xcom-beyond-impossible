@@ -9,6 +9,7 @@ These changes attempt to:
    - Soldier promotion abilities
    - Tech path (Gauss vs. Aegis vs. MEC first, for example)
 - Nerf abusive strategies (Infinite range snipers)
+- Some playstyles or starts will affect the difficulty of these changes and are at the discretion of the player to use.
 
 # Assumed Player Settings:
 
