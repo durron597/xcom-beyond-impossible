@@ -27,9 +27,9 @@ Installation Instructions:
 
 2. Install Patchergui.
 
-3. Install optional mods if you wish or skip this step.
+3. Install optional mods if you wish or skip this step. To install mods with Patchergui: Click Browse to the right of "Mod file" and select the text file of the mod you wish to install. Click "Apply" and you are done.
 
-4. Use PatcherGUI to apply XGStrategy.NewGame.txt and XGUnit.RecordKill.txt patches to Path-To-SteamLibrary\SteamApps\common\XCom-Enemy-Unknown\XEW folder.
+4. Use PatcherGUI to apply the XGStrategy.NewGame.txt and XGUnit.RecordKill.txt patches to Path-To-SteamLibrary\SteamApps\common\XCom-Enemy-Unknown\XEW folder. To do so, click "Browse" to the right of "Mod file" and find the forementioned two files. After selecting each file, click "Apply" and you are done. Do this as many times for each file.
 
 5. Copy four *.u files from inside this archive to Path-To-SteamLibrary\SteamApps\common\XCom-Enemy-Unknown\XEW\XComGame\CookedPCConsole folder. Answer "yes" when prompted to replace existing files. **Be sure to use the newer file from http://www.nexusmods.com/xcom/download/1000005238 as it has the newer and updated file.**
 
