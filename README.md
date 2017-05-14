@@ -1,6 +1,10 @@
-# What is this?
+# Introduction
 
 Long War Impossible is too easy. Snipers with a concealment Scout are just too strong, Lasers and pulse and other techs are completely skippable, it's too easy for XCom to get ahead and stay ahead. Escalation Mod is now used to create interesting and difficult plays throughout the game.
+
+# What is this?
+Beyond Impossible re-scales almost anything you can think of in Long War. The goal of the changes is to make everything scale well. So this means gear for soldiers are tiered better to where you would not consider skipping any weapon or armor tier. Ill list the values below and you will understand. Air game is slightly friendlier, and hidden potential is changed for the 1st 2 promotions to be great. Aliens are significantly buffed and perk trees reworked to crush certain gimmicky strategies that the AI could not compensate for; for example sniper rifles are no longer unlimited range, but rather only twice the additional shooting distance of marksman/lmg gun. The end result is a very difficult version of longwar where you really need to prioritize what you pursue in order to survive.
+
 
 These changes attempt to:
 - Add challenge to the later parts of the game
@@ -16,7 +20,7 @@ These changes attempt to:
 - Impossible Difficulty (this is Beyond Impossible, right?)
 - Second Wave options:
   - #3  Hidden Potential
-  - #8  Liberation
+  - #8  Liberators
   - #12 Diminishing Returns
   - #17 Total Loss
   - #18 Commander's Choice
@@ -75,6 +79,52 @@ These changes attempt to:
 ## Escalation
 - Adds custom alien pods to the game and can be determined by mission type and/or months in-game.
 - Entirely possible to see high tier aliens much earlier into the game allowing for different alien pod compositions that increases mission difficulty.
+
+## Unsorted
+Soldier gear: All Gear has been scaled to where you will want and NEED every tier. Shortly after you could feasibly obtain certain gear, the aliens will compensate with additional stats or stronger, deadlier pods, via escalation mod.
+
+Armor:  Yup, Armor has DR now.
+
+Phalanx   4hp, .5DR, Mobility 2
+Carapace   6hp, 1DR, Mobility 1
+Krestrel   4hp, 1DR, Mobility 4 Defense 4
+Aegis      11hp  1.5DR Mobility 2
+Banshe     7hp  1.5DR Mobility 4 Defense 12
+Corsair    8HP  1.5DR  Mobility 3 Defense 8
+Titan      18HP  2.5DR  Mobility 0
+Archangel  12HP  2DR   Mobility 1 Defense 12
+Seraph Armor  8HP   1.5DR  Mobility 3 Defense 8
+Aurora Armor  10HP  1.5DR  Mobility 2 Defense 10   Will 12   
+Vortex Armor 20HP   1.5DR  Mobility 2 Will 20         
+
+Weapons:
+
+Lasers:
+1 dmg gain and 1 mobility gain from ballistics, 6 aim
+
+Gauss: yes, you lose the mobility when you switch
+2dmg gain from Lasers, 1 Hp Gain, 1 Ammo Gain
+
+Pulse: 
+2dmg gain from gauss, 12% crit(up from 8%), 2 hp gain
+
+Plasma:
+3dmg gain from pulse, 4% crit, 3 aim gain, 3hp gain, 1 mobility gain
+
+
+
+Mec Armors: All mec Armor has 1 additional small item slot
+
+iHPBonus=10,  iDefenseBonus=12, iLargeItems=2, iSmallItems=3, iMobilityBonus=3 ) mec-1 Paladin
+iHPBonus=17, iDefenseBonus=12,   iLargeItems=3, iSmallItems=3, iMobilityBonus=4 ) MEC-2 Defender
+iHPBonus=15, iDefenseBonus=18,  iLargeItems=3, iSmallItems=3, iMobilityBonus=6 ) MEC-3 Valiant
+iHPBonus=23, iDefenseBonus=18,  iWillBonus=5,  iLargeItems=4, iSmallItems=4, iMobilityBonus=5 ) MEC-4 Dauntless
+iHPBonus=27, iDefenseBonus=12,  iWillBonus=5,  iLargeItems=3, iSmallItems=4, iMobilityBonus=2 ) MEC-5 Devastator
+iHPBonus=17, iDefenseBonus=26,  iWillBonus=5,  iLargeItems=3, iSmallItems=4, iMobilityBonus=10) MEC-6 Vanguard
+
+I will add more stuff here later. Other useless items like carbide plating are Better/other useless items that you could think of.
+Carbide plating is 4hp 1 DR for example - Arvius
+
 
 ## What else? (Under construction)
 - Alien stats buffed. More details to be entered.
