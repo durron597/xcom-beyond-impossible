@@ -1,0 +1,45 @@
+Long War - Beyond Impossible with Escalation
+
+How to install.
+
+First, download Long War: http://www.nexusmods.com/xcom/mods/88/
+Secondly, PatcherGUI: http://www.nexusmods.com/xcom/mods/448/?
+
+Now for the files that you will need. I would recommend downloading all of them, and putting them into a folder somewhere and divide them up based on the 3 sections I am about to list.
+
+It is recommended to download all of the files into a separate folder for easy access.
+
+Config Files will go into a directory such as:  Path-To-Steam\steamapps\common\XCom-Enemy-Unknown\XEW\XComGame\Config. If you've found the folder containing the files, DefaultCamera, DefaultCheats, etc then you are in the right place.
+
+This list of files you will download will go into the Config folder mentioned just above this. When asked to overwrite, you will overwrite. If needed, make a backup of the original files.
+https://www.dropbox.com/s/so3uzn8k5xpsd5v/DefaultEngine.ini?dl=0
+https://www.dropbox.com/s/26bc3pinrywj0pv/DefaultGameCore.ini?dl=0
+https://www.dropbox.com/s/0fu2dbyw9e75lgv/DefaultGameData.ini?dl=0
+https://www.dropbox.com/s/1hk43gyebblsmzr/DefaultMutatorLoader.ini?dl=0
+https://www.dropbox.com/s/27ym8rf07ac8jag/DefaultRandomSpawns.ini?dl=0
+https://www.dropbox.com/s/k5daxucuhpfc8y2/DefaultSHIVXP.ini?dl=0
+https://www.dropbox.com/s/p8viqba8tlk89yh/DefaultStrategyAIMod.ini?dl=0
+
+
+CookedPCConsole Files: Path-To-Steam\steamapps\common\XCom-Enemy-Unknown\XEW\XComGame\CookedPCConsole
+
+This list of files you will download will go into the CookedPCConsole folder mentioned just above this.
+https://www.dropbox.com/s/qv632h7za4k5sml/Engine.upk?dl=0 - THis File is the DevConsole
+https://www.dropbox.com/s/r87f8v0axi0yuhr/XComLZMutator.u?dl=0
+https://www.dropbox.com/s/0gsdm5vd5eeix42/XComMutator.u?dl=0
+https://www.dropbox.com/s/hzcj2y80e0j73zt/XComSHIVXP.u?dl=0
+https://www.dropbox.com/s/6386q0pqiyjxki5/XComStrategyAIMutator.u?dl=0
+
+PatcherGUI Mods: 
+
+To use this installer, run PatcherGui normally and you will be presented with several options. 
+Top browse option = Set path to - Path-To-Steam\steamapps\common\XCom-Enemy-Unknown\XEW
+Second browse option - just find your file after you download and open it, then hit "Apply"
+
+https://www.dropbox.com/s/lguj2vlfa2hr8ch/XGStrategy.NewGame.txt?dl=0  NOT OPTIONAL! Required for escalation
+https://www.dropbox.com/s/yz0lyinarz0t2hg/XGUnit.RecordKill.txt?dl=0   NOT OPTIONAL! Required for escalation
+https://www.dropbox.com/s/vq2dz376bwoj0q6/CustomizeUniqueSoldiers.txt?dl=0 Semi-optional. You really want this. rebalances special soldiers
+https://www.dropbox.com/s/xlajf5on2aze3d2/EnhancedTacticalInfo.txt?dl=0   Optional, F1 shows active aliens/dead aliens
+https://www.dropbox.com/s/rz5tafvfgndn553/hit_chance_display_b15e.txt?dl=0   Optional, FUnctions like perfect information, but better
+https://www.dropbox.com/s/i885h5wqg2ijdwr/Panic%26ShieldLevelNumbers.txt?dl=0   Optional, Shows panic and stuff. Its neat.
+https://www.dropbox.com/s/0141vviquxx63j1/ThreatResearchResourceLevels.txt?dl=0   Optional, Shows how much meld is worth
