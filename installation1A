@@ -43,3 +43,7 @@ https://www.dropbox.com/s/xlajf5on2aze3d2/EnhancedTacticalInfo.txt?dl=0   Option
 https://www.dropbox.com/s/rz5tafvfgndn553/hit_chance_display_b15e.txt?dl=0   Optional, FUnctions like perfect information, but better
 https://www.dropbox.com/s/i885h5wqg2ijdwr/Panic%26ShieldLevelNumbers.txt?dl=0   Optional, Shows panic and stuff. Its neat.
 https://www.dropbox.com/s/0141vviquxx63j1/ThreatResearchResourceLevels.txt?dl=0   Optional, Shows how much meld is worth
+
+Important Notes:
+Every time you started a new campaign, use "levelupbarracks" (without the quotes) in the console (used by pressing "\" )
+Diminishing Returns Second Wave option is also recommended since the balancing is done with that in mind.
