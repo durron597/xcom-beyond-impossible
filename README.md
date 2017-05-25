@@ -122,6 +122,15 @@ Mec Armors: All mec Armor has 1 additional small item slot
 - iHPBonus=27, iDefenseBonus=12,  iWillBonus=5,  iLargeItems=3, iSmallItems=4, iMobilityBonus=2 ) MEC-5 Devastator
 - iHPBonus=17, iDefenseBonus=26,  iWillBonus=5,  iLargeItems=3, iSmallItems=4, iMobilityBonus=10) MEC-6 Vanguard
 
+UFOs:
+Aliens now gain MORE resources from landed missions and Lose less if you clear their landed ships. This means they will be stuck in a permanent state of High meld. Aliens spend their resources on many things such as trap missions, terror missions, infiltration missions, So expect to see more terror missions than normal.
+
+
+Aliens:
+Expect all leader aliens to have more stats than before and more dmg than their minions :P.
+Many Leaders, and some aliens have reworked perk trees so expect deadlier combinations. Some major reworks are Outsiders and cyberdisks. Expect all disks to have opportunist and cover-fire for example.
+
+
 I will add more stuff here later. Other useless items like carbide plating are Better/other useless items that you could think of.
 Carbide plating is 4hp 1 DR for example - Arvius
 
