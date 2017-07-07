@@ -77,7 +77,6 @@
 - Enhanced Ballistic Weaponry: Elerium cost from 0 to 10. Weapon fragments from 20 to 50.
 - Enhanced Laser Weaponry: Elerium cost from 0 to 25. Weapon fragments from 45 to 75.
 
-High 3 digits of iFragments are Meld, low 3 are weapon Fragments
 
 ## Research/Tech:
 - Advanced Power Armor iTime=110 to 130.
