@@ -1,5 +1,8 @@
 # July 07 2017
 
+## Escalation changes:
+- Some nerfs for first 2-4 months.
+- https://www.diffchecker.com/u1NydC6Y
 
 ## General changes:
 - Chance of successful training if soldier Will equals Psi Power's target will: 45% to 50%.
@@ -7,6 +10,7 @@
 - Number of soldier slots in PsiLab, GeneLabs and Cybernetics Lab/Repair Bay from 3 to 4.
 - Into the Breach divisor set to 2.5. Formula is: MissionCompleteExp + (MissionCompleteExp/2.5)
 - Currency for "Heavy" mission from 135 to 155.
+- Loss condition for countries lost from 16 to 10.
 
 ## Alien buffs/nerfs:
 
