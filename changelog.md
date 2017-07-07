@@ -61,6 +61,8 @@
 ## Base changes:
 - Hangar power cost from 3 to 1.
 - OTS currency cost from 200 to 150.
+- Colonel / COL cost from 400 to 350.
+- Field Commander / CMDR cost from 500 to 400.
 
 ## Item changes:
 - Arc Thrower currency cost from 100 to 80.
@@ -68,7 +70,38 @@
 - Carapace Armor currency cost from 80 to 75.
 
 ## Foundry Projects:
+- Advanced Combat Systems: Weapon fragments cost from 50 to 120.
+- Alien Grenades: Meld cost from 15 to 10. Weapon fragments from 10 to 175.
+- Ammo Conservation: Currency from 850 to 750.
+- Armored Fighters: Meld cost from 200 to 150.
 - Enhanced Ballistic Weaponry: Elerium cost from 0 to 10. Weapon fragments from 20 to 50.
+- Enhanced Laser Weaponry: Elerium cost from 0 to 25. Weapon fragments from 45 to 75.
+
+High 3 digits of iFragments are Meld, low 3 are weapon Fragments
+
+## Research/Tech:
+- Advanced Power Armor iTime=110 to 130.
+- Mobile Combat Exoskeletons iTime=110 to 130.
+- Heavy Combat Exoskeletons iTime=110 to 130.
+- Advanced Aerospace Concepts: Weapon fragments cost from 50 to 150.
+- Alien Propulsion: Weapon fragments cost from 160 to 260.
+- Experimental Warfare: Weapon fragments cost from 20 to 50.
+- Gauss Weapons: Weapon fragments cost from 150 to 225.
+- Advanced Gauss Weapons: Weapon fragments cost from 180 to 260.
+- Pulse Lasers: Weapon fragments cost from 225 to 285.
+- Advanced Pulse Lasers: Weapon fragments cost from 240 to 320.
+
+- Berserker Autopsy: 5 to 9 items required. 
+- Cyberdisc Autopsy: 3 to 5 items required.
+- Drone Autopsy: 5 to 10 items required.
+- Heavy Floater Autopsy: 5 to 20.
+- Mechtoid Autopsy: 3 to 6.
+- Muton Elite Autopsy: 5 to 25.
+- Sectoid Commander Autopsy: 5 to 8.
+- Seeker Autopsy: 5 to 10 items required. 
+- Sectopod Autopsy: 3 to 5 items required.
+
+
 
 ## Soldier changes:
 ### General Soldier changes.
@@ -83,15 +116,5 @@
 ### SHIVs:
 - HP from 2 to 8.
 - Other minor SHIV buffs. In general SHIVs have more HP.
-
-
-
-
-
-
-
-
-
-
 
 https://www.diffchecker.com/ypecICAt
