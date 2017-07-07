@@ -6,6 +6,7 @@
 - Time for Psi training hours from 192 to 155.
 - Number of soldier slots in PsiLab, GeneLabs and Cybernetics Lab/Repair Bay from 3 to 4.
 - Into the Breach divisor set to 2.5. Formula is: MissionCompleteExp + (MissionCompleteExp/2.5)
+- Currency for "Heavy" mission from 135 to 155.
 
 ## Alien buffs/nerfs:
 
@@ -42,8 +43,35 @@
 - Starting income for Nigeria from 450 to 550.
 
 - Wealthy Benefactor bonus from 850 to 950.
+- Call to Arms bonus from 25% to 40%.
+- The Old Path bonus from 20% to 25%.
+- 1st Recce bonus from 4 to 5.
+- Army of the Southern Cross bonus from 4 to 3.
+- Xenological Remedies bonus from 34% to 40%.
+- Robotics bonus from 2 to 3.
+- Cyberware bonus from 20% to 40%.
+- NeoPanzers bonus from 20% to 40%.
+- Bounties bonus from 25% to 20%.
+- Expertise bonus from 20% to 25%.
+- Legacy of Uxmal bonus from 10% to 12%.
+- Task Force Arrowhead bonus from 3 to 4.
+
+- Germany eng/sci from 1/0 to 1/1.
+
+## Base changes:
+- Hangar power cost from 3 to 1.
+- OTS currency cost from 200 to 150.
+
+## Item changes:
+- Arc Thrower currency cost from 100 to 80.
+- Chem Grenade currency cost from 120 to 90.
+- Carapace Armor currency cost from 80 to 75.
+
+## Foundry Projects:
+- Enhanced Ballistic Weaponry: Elerium cost from 0 to 10. Weapon fragments from 20 to 50.
 
 ## Soldier changes:
+### General Soldier changes.
 - Technical Sergeant / Major: Exp required from 2200 to 1900.
 - Gunnery Sergeant / Colonel: Exp required from 3300 to 3200.
 - Psi Sensitive Exp required from 250 to 200.
@@ -52,6 +80,9 @@
 - Psi Psion Exp required from 1350 to 1150.
 - Psi Master Exp required from 2000 to 1700.
 
+### SHIVs:
+- HP from 2 to 8.
+- Other minor SHIV buffs. In general SHIVs have more HP.
 
 
 
