@@ -46,5 +46,15 @@ https://www.dropbox.com/s/0141vviquxx63j1/ThreatResearchResourceLevels.txt?dl=0 
 https://pastebin.com/n80cVHnX     Optional, promotes your PFCs to Specialist automatically. (Useful for hiring new rookies)
 
 Important Notes:
-Every time you started a new campaign, use "levelupbarracks" (without the quotes) in the console (used by pressing "\" )
+Skip the very first mission by using console command: "killaliens"
+Every time you start a new campaign, use "levelupbarracks" (without the quotes) in the console (used by pressing "\" )
 Diminishing Returns Second Wave option is also recommended since the balancing is done with that in mind.
+
+Intended Second Wave options:
+#3 Hidden Potential
+#8 Liberators 
+#12 Diminishing Returns 
+#17 Total Loss 
+#18 Commander's Choice 
+#29 Recon
+Perfect Information (optional to fix mod bugs)
