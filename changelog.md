@@ -77,14 +77,23 @@
 - Reduced damage of all soldiers by 1.
 
 ## Foundry Projects:
+- Advanced Servomotors: Meld from 120 to 100.
 - Alien Grenades: Meld unchanged from 10. Weapon fragments from 175 to 105.
+- Alien Metallurgy: Meld from 100 to 80. 
+- Alien Nucleonics: Meld from 150 to 120.
 - Ammo Conservation: Meld from 150 to 120. Weapon fragments unchanged from 125.
 - Enhanced Ballistic Weaponry: Weapon fragments from 50 to 40.
 - Enhanced Laser Weaponry: Alloys from 40 to 30. Weapon fragments from 75 to 45.
 - Enhanced SCOPE: Weapon fragments from 95 to 45.
 - Improved Arc Thrower: Weapon fragments from 60 to 50.
 - Jellied Elerium: Meld from 100 to 80. Weapon fragments unchanged from 80.
-High 3 digits of iFragments are Meld, low 3 are weapon Fragments
+- MEC Close Combat: Meld from 120 to 90. Weapon fragments unchanged from 40.
+- Phoenix Coilguns: Meld from 100 to 80. 
+- Psi Warfare Systems: Meld from 90 to 50. Weapon fragments from 45 to 35.
+- Shaped Armor: Meld from 70 to 60.
+- Supercapacitors: Weapon fragments from 150 to 120.
+- Tactical Rigging: Meld unchanged from 140. Weapon fragments from 150 to 250. Corpses from 40 to 50.
+- Wingtip Sparrowhawks: Meld from 90 to 60. Weapon fragments from 70 to 50. 
 
 ## Item changes: 
 - Alloy Carbide Plating: Engineer cost from 35 to 65.
@@ -109,11 +118,31 @@ High 3 digits of iFragments are Meld, low 3 are weapon Fragments
 - UFO Power Source: Sell value from 60 to 75. 
 - UFO Navigation: Sell value from 30 to 40.
 
+## Research/Tech:
+- Advanced Aerospace Concepts: Weapon fragments from 150 to 80.
+- Beam Lasers: Weapon fragments from 70 to 60.
+- Advanced Beam Lasers: Weapon fragments from 80 to 70.
+- Gauss Weapons: Weapon fragments from 225 to 105.
+- Advanced Gauss Weapons: Weapon fragments from 260 to 70. 
+- Pulse Lasers: Weapon fragments from 285 to 155.
+- Advanced Pulse Lasers: Weapon fragments from 320 to 90.
+- Plasma Weapons: iTime 115 to 165.
+- Advanced Plasma Weapons: iTime 125 to 145.
+- Heavy Plasma Weapons: iTime 125 to 145.
+- Vehicular Plasma Weapons: iTime 125 to 145.
+- Precision Plasma Weapons: iTime 125 to 145.
+- Muton Elite Autopsy: Corpses required from 25 to 5.
+- Note: Time in hours for 1 scientist is (iTime * Tech_Time_Balance * 72). TECH_TIME_BALANCE=10 in the INIs.
+
 ## Soldier changes:
 ### General Soldier changes.
 - Technical Sergeant / Major: Exp required from 1900 to 1800.
 - Gunnery Sergeant / Colonel: Exp required from 3200 to 3000.
 - Master Sergeant / Field Commander: Exp required from 4600 to 4400.
+
+- https://www.diffchecker.com/U7lS0M0s
+
+
 
 # July 07 2017
 
