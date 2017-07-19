@@ -47,6 +47,11 @@
 - Leader level 8: Damage from 0 to 1 (line 750)
 - Leader level 9: Damage from 0 to 5. HP from 0 to 150. (line 752)
 
+### Seekers:
+- Leader level 6: New perk level. Covering Fire perk gained. 
+- Leader level 8: Old level 9 moved to level 8. Damage from 1 to 2. Aim from 10 to 2. HP from 20 to 10. Ready for Anything perk gained.
+- Leader level 9: Added a new line with the following changes. Damage set to 4. Aim set to 10. HP set to 25. Combined Arms perk.
+
 ### Thin Mints:
 - 190 AR: Damage from 1 to 0
 - 240 AR: Damage 0 to 1.
@@ -62,6 +67,12 @@
 
 ### Ughxalt:
 - Reduced damage of all soldiers by 1.
+
+## Soldier changes:
+### General Soldier changes.
+- Technical Sergeant / Major: Exp required from 1900 to 1800.
+- Gunnery Sergeant / Colonel: Exp required from 3200 to 3000.
+- Master Sergeant / Field Commander: Exp required from 4600 to 4400.
 
 # July 07 2017
 
