@@ -1,6 +1,16 @@
 # July 19 2017
 
 ## Escalation changes:
+- Some more earlier alien nerfs. Less pods in general.
+- Disc pods are smaller in the earlier months. Pod chances also reduced.
+- July pods now have set leader levels.
+- August disc pods reduced in size by 1.
+- September command pods have at least level 3 leaders.
+- November command pods have at least level 4 leaders.
+- December command pods have at least level 5 leaders.
+- January command pods have at least level 6 leaders.
+- February command pods have at least level 6 leaders. 
+- https://www.diffchecker.com/D6lAjqel
 
 ## General changes: 
 - Grapple distance from 15 to 20.
