@@ -76,6 +76,12 @@
 ### Ughxalt:
 - Reduced damage of all soldiers by 1.
 
+## Item changes: 
+- Alloy Plating: DR from 0.2 to 0.
+- Chitin Plating: Cost from 80 to 150. 
+- Reinforced Armor: HP from 2 to 3.
+- Respirator Implant: Cost from 40 to 150. HP from 1 to 4. iElerium= from 8000 to 8030. Alloys from 0 to 40. Engineer cost from 25 to 75. Defense from 0 to -5. DR from 0 to 2. Mobility from 0 to -2. 
+
 ## Soldier changes:
 ### General Soldier changes.
 - Technical Sergeant / Major: Exp required from 1900 to 1800.
