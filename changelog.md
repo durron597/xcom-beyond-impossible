@@ -1,3 +1,17 @@
+# July 19 2017
+
+## Escalation changes:
+
+## Alien buffs/nerfs:
+
+### Sectoids:
+- 180 AR: Damage decreased by 1. Aim decreased by 1. HP decreased by 1.
+- 240 AR: Aim decreased by 1. HP decreased by 1.
+- 340 AR: Damage increased by 1. HP increased by 1.
+
+### Ughxalt:
+- Reduced damage of all soldiers by 1.
+
 # July 07 2017
 
 ## Escalation changes:
