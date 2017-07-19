@@ -4,12 +4,34 @@
 
 ## Alien buffs/nerfs:
 
+### Chryssalid:
+- Leader level 1: Damage from 0 to 4. 
+
 ### Cyberdisc:
 - 180 AR: New research level. Aim set to 2. HP set to 2. 
 - 240 AR: Rebalanced. Aim -2 to 8. HP from 3 to 4.
 
 ### Heavy Floaters:
 - 200 AR: HP +2 to 5.
+
+### Floaters:
+- 230 AR: Aim from 5 to 4. 
+
+### Mechtoids:
+- Leader level 9: Damage from 0 to 3. 
+
+### Mutons:
+- 180 AR: Aim 4 to 2. HP 3 to 2.
+- 220 AR: HP 2 to 3.
+- 300 AR: Aim 8 to 6.
+- Leader level 9: New Sprinter perk. (line 10) 
+
+### Muton Berserkers:
+- 180 AR: New research level. Damage set to 0. HP set to 2. Mobility set to 1. Will set to 3.
+- 220 AR: Rebalanced. Damage unchanged at 1. Mobility from 2 to 1. 
+
+### Outsiders:
+- Leader level 8: New perk level. HP set to 3. Covering Fire perk gained.
 
 ### Sectoids:
 - 180 AR: Damage 1 to 0. Aim from 4 to 3. HP from 2 to 1.
@@ -19,18 +41,24 @@
 ### Sectoid Commanders:
 - 170 AR: New research level. Damage set to 1. HP set to 4. Mobility to 2. Will set to 5.
 - 230 AR: Rebalanced. Damage from 1 to 0. HP from 6 to 3. Mobility from 4 to 2. Will from 10 to 5.
+- Leader level 1: HP from 1 to 4.
 
-### Floaters:
-- 230 AR: Aim from 5 to 4. 
-
-### Mutons:
-- 180 AR: Aim 4 to 2. HP 3 to 2.
-- 220 AR: HP 2 to 3.
-- 300 AR: Aim 8 to 6.
+### Sectopods:
+- Leader level 8: Damage from 0 to 1 (line 750)
+- Leader level 9: Damage from 0 to 5. HP from 0 to 150. (line 752)
 
 ### Thin Mints:
 - 190 AR: Damage from 1 to 0
 - 240 AR: Damage 0 to 1.
+- Leader level 9: HP from 10 to 20. (Line 10)
+
+### Uber Ethereals:
+- Leader level 1: HP from 28 to 250.
+
+### Zombies:
+- 190 AR: HP from 3 to 2.
+- 240 AR: HP from 2 to 1.
+- 320 AR: HP from 0 to 2.
 
 ### Ughxalt:
 - Reduced damage of all soldiers by 1.
