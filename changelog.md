@@ -2,6 +2,14 @@
 
 ## Escalation changes:
 
+## General changes: 
+- Grapple distance from 15 to 20.
+- Alloys from Scouts/Fighters from 30 to 31.
+- Alloys from Raiders and Destroyers from 40 to 44.
+- Alloys from Harvesters and Abductors from 58 to 61. 
+- Alloys from Transports and Terror Ships from 70 to 76.
+- Alloys from Battleships and Assault Carriers from 82 to 85.
+
 ## Alien buffs/nerfs:
 
 ### Chryssalid:
