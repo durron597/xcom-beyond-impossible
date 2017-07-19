@@ -76,11 +76,38 @@
 ### Ughxalt:
 - Reduced damage of all soldiers by 1.
 
+## Foundry Projects:
+- Alien Grenades: Meld unchanged from 10. Weapon fragments from 175 to 105.
+- Ammo Conservation: Meld from 150 to 120. Weapon fragments unchanged from 125.
+- Enhanced Ballistic Weaponry: Weapon fragments from 50 to 40.
+- Enhanced Laser Weaponry: Alloys from 40 to 30. Weapon fragments from 75 to 45.
+- Enhanced SCOPE: Weapon fragments from 95 to 45.
+- Improved Arc Thrower: Weapon fragments from 60 to 50.
+- Jellied Elerium: Meld from 100 to 80. Weapon fragments unchanged from 80.
+High 3 digits of iFragments are Meld, low 3 are weapon Fragments
+
 ## Item changes: 
+- Alloy Carbide Plating: Engineer cost from 35 to 65.
 - Alloy Plating: DR from 0.2 to 0.
-- Chitin Plating: Cost from 80 to 150. 
-- Reinforced Armor: HP from 2 to 3.
-- Respirator Implant: Cost from 40 to 150. HP from 1 to 4. iElerium= from 8000 to 8030. Alloys from 0 to 40. Engineer cost from 25 to 75. Defense from 0 to -5. DR from 0 to 2. Mobility from 0 to -2. 
+- Ceramic Plating: DR from 0.3 to 0.1.
+- Chitin Plating: Cost from 80 to 150.
+- Holo-Targeter: Engineer cost from 15 to 45.
+- Neural Gunlink: Engineer cost from 40 to 70.
+- Reinforced Armor: HP from 2 to 3. DR from 1.3 to 1.0. 
+- Respirator Implant: Cost from 40 to 150. HP from 1 to 4. iElerium= from 8000 to 8030. Alloys from 0 to 40. Engineer cost from 25 to 75. Defense from 0 to -5. DR from 0 to 2. Mobility from 0 to -2.
+- Tactical Sensors: Engineer cost from 35 to 55. 
+- Walker Gear: Engineer cost from 45 to 65.
+
+## Loot changes:
+- Alien Entertainment: Sell value from 250 to 350.
+- Alien Food: Sell value from 10 to 12.
+- Sectoid Corpses: 2 to 3.
+- Floater Corpses: 3 to 4.
+- Muton Corpses: 4 to 5.
+- Damaged UFO Power Source: Sell value from 30 to 40.
+- Damaged UFO Navigation: Sell value from 15 to 20.
+- UFO Power Source: Sell value from 60 to 75. 
+- UFO Navigation: Sell value from 30 to 40.
 
 ## Soldier changes:
 ### General Soldier changes.
