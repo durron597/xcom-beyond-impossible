@@ -19,6 +19,7 @@
 - Alloys from Harvesters and Abductors from 58 to 63. 
 - Alloys from Transports and Terror Ships from 70 to 76.
 - Alloys from Battleships and Assault Carriers from 82 to 85.
+- Initial Timer on Bomb Disposal missions from 6 to 8.
 
 ## Alien buffs/nerfs:
 
