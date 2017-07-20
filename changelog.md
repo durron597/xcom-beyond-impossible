@@ -1,4 +1,4 @@
-# July 19 2017
+# July 20 2017
 
 ## Escalation changes:
 - Some more earlier alien nerfs. Less pods in general.
@@ -14,9 +14,9 @@
 
 ## General changes: 
 - Grapple distance from 15 to 20.
-- Alloys from Scouts/Fighters from 30 to 31.
-- Alloys from Raiders and Destroyers from 40 to 44.
-- Alloys from Harvesters and Abductors from 58 to 61. 
+- Alloys from Scouts/Fighters from 30 to 33.
+- Alloys from Raiders and Destroyers from 40 to 45.
+- Alloys from Harvesters and Abductors from 58 to 63. 
 - Alloys from Transports and Terror Ships from 70 to 76.
 - Alloys from Battleships and Assault Carriers from 82 to 85.
 
@@ -28,6 +28,10 @@
 ### Cyberdisc:
 - 180 AR: New research level. Aim set to 2. HP set to 2. 
 - 240 AR: Rebalanced. Aim -2 to 8. HP from 3 to 4.
+
+### Drones:
+- 200 AR: Aim from 8 to 4.
+- 430 AR: Aim from 0 to 4.
 
 ### Heavy Floaters:
 - 200 AR: HP +2 to 5.
@@ -42,6 +46,7 @@
 - 180 AR: Aim 4 to 2. HP 3 to 2.
 - 220 AR: HP 2 to 3.
 - 300 AR: Aim 8 to 6.
+- 470 AR: DR increased by 1 from 0.
 - Leader level 9: New Sprinter perk. (line 10) 
 
 ### Muton Berserkers:
@@ -49,6 +54,9 @@
 - 220 AR: Rebalanced. Damage unchanged at 1. Mobility from 2 to 1. 
 
 ### Outsiders:
+- 230 AR: Aim from 12 to 6. iDefense=1002 to 2. HP from 3 to 1.
+- 290 AR: Aim from 4 to 8. iDefense=2 to 1002. HP from 2 to 3.
+- 370 AR: Aim from 4 to 6. 
 - Leader level 8: New perk level. HP set to 3. Covering Fire perk gained.
 
 ### Sectoids:
@@ -57,8 +65,8 @@
 - 340 AR: Damage 0 to 1. HP 0 to 1.
 
 ### Sectoid Commanders:
-- 170 AR: New research level. Damage set to 1. HP set to 4. Mobility to 2. Will set to 5.
-- 230 AR: Rebalanced. Damage from 1 to 0. HP from 6 to 3. Mobility from 4 to 2. Will from 10 to 5.
+- 170 AR: New research level. Damage set to 1. HP set to 3. Mobility to 2. Will set to 5.
+- 230 AR: Rebalanced. Damage from 1 to 0. HP from 6 to 2. Mobility from 4 to 2. Will from 10 to 5.
 - Leader level 1: HP from 1 to 4.
 
 ### Sectopods:
@@ -86,6 +94,9 @@
 ### Ughxalt:
 - Reduced damage of all soldiers by 1.
 
+## Country changes:
+- Bounties (% cash bonus from abductions): 20 to 18%
+
 ## Foundry Projects:
 - Advanced Servomotors: Meld from 120 to 100.
 - Alien Grenades: Meld unchanged from 10. Weapon fragments from 175 to 105.
@@ -108,21 +119,26 @@
 ## Item changes: 
 - Alloy Carbide Plating: Engineer cost from 35 to 65.
 - Alloy Plating: DR from 0.2 to 0.
+- Blaster Launcher: Damage from 18 to 19.
 - Ceramic Plating: DR from 0.3 to 0.1.
 - Chitin Plating: Cost from 80 to 150.
 - Holo-Targeter: Engineer cost from 15 to 45.
 - Neural Gunlink: Engineer cost from 40 to 70.
+- Recoilless Rifle: Damage from 11 to 12.
 - Reinforced Armor: HP from 2 to 3. DR from 1.3 to 1.0. 
 - Respirator Implant: Cost from 40 to 150. HP from 1 to 4. iElerium= from 8000 to 8030. Alloys from 0 to 40. Engineer cost from 25 to 75. Defense from 0 to -5. DR from 0 to 2. Mobility from 0 to -2.
 - Tactical Sensors: Engineer cost from 35 to 55. 
 - Walker Gear: Engineer cost from 45 to 65.
 
 ## Loot changes:
+- All other alien/Exalt Meld from kills from 0.5 to 0.8 .
 - Alien Entertainment: Sell value from 250 to 350.
 - Alien Food: Sell value from 10 to 12.
 - Sectoid Corpses: 2 to 3.
 - Floater Corpses: 3 to 4.
+- Mechtoid: Elerium from 4 to 6. Alloys from 6 to 8.
 - Muton Corpses: 4 to 5.
+- Sectopod: Elerium from 6 to 8. Alloys from 6 to 9.
 - Damaged UFO Power Source: Sell value from 30 to 40.
 - Damaged UFO Navigation: Sell value from 15 to 20.
 - UFO Power Source: Sell value from 60 to 75. 
@@ -134,13 +150,13 @@
 - Advanced Beam Lasers: Weapon fragments from 80 to 70.
 - Gauss Weapons: Weapon fragments from 225 to 105.
 - Advanced Gauss Weapons: Weapon fragments from 260 to 70. 
-- Pulse Lasers: Weapon fragments from 285 to 155.
-- Advanced Pulse Lasers: Weapon fragments from 320 to 90.
-- Plasma Weapons: iTime 115 to 165.
-- Advanced Plasma Weapons: iTime 125 to 145.
-- Heavy Plasma Weapons: iTime 125 to 145.
-- Vehicular Plasma Weapons: iTime 125 to 145.
-- Precision Plasma Weapons: iTime 125 to 145.
+- Pulse Lasers: Weapon fragments from 285 to 155. iTime 88 to 100.
+- Advanced Pulse Lasers: Weapon fragments from 320 to 90. iTime 95 to 70.
+- Plasma Weapons: iTime 115 to 225.
+- Advanced Plasma Weapons: iTime 125 to 135.
+- Heavy Plasma Weapons: iTime 125 to 135.
+- Vehicular Plasma Weapons: iTime unchanged at 125.
+- Precision Plasma Weapons: iTime 125 to 135.
 - Muton Elite Autopsy: Corpses required from 25 to 5.
 - Note: Time in hours for 1 scientist is (iTime * Tech_Time_Balance * 72). TECH_TIME_BALANCE=10 in the INIs.
 
@@ -150,7 +166,6 @@
 - Gunnery Sergeant / Colonel: Exp required from 3200 to 3000.
 - Master Sergeant / Field Commander: Exp required from 4600 to 4400.
 
-- https://www.diffchecker.com/U7lS0M0s
 
 
 
