@@ -117,6 +117,7 @@
 - Wingtip Sparrowhawks: Meld from 90 to 60. Weapon fragments from 70 to 50. 
 
 ## Item changes: 
+- Repair modifier (in cash, alloys, elerium and meld) from 20% to 15%.
 - Alloy Carbide Plating: Engineer cost from 35 to 65.
 - Alloy Plating: DR from 0.2 to 0.
 - Blaster Launcher: Damage from 18 to 19.
@@ -165,6 +166,7 @@
 - Technical Sergeant / Major: Exp required from 1900 to 1800.
 - Gunnery Sergeant / Colonel: Exp required from 3200 to 3000.
 - Master Sergeant / Field Commander: Exp required from 4600 to 4400.
+- MEC Augmentation: Cash cost from 40 to 30. Meld cost from 60 to 45. 
 
 
 
